@@ -28,3 +28,5 @@ Follow the next requirements to pass the tests:
 - Implement a solution following the [React task guidelines](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline).
 - Open one more terminal and run tests with `npm test` to ensure your solution is correct.
 - Replace `<your_account>` with your Github username in the [DEMO LINK](https://maxbilfed.github.io/react_tabs-js/) and add it to the PR description.
+
+## Just deployed the website, as requested
